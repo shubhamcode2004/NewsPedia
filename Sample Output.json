@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "The identical twins who discovered their secret sibling",
+            "description": "In the 1960s an adoption agency in New York deliberately split up infant twins as part of a controversial study.",
+            "url": "https://www.bbc.com/future/article/20220817-the-twins-who-were-split-up-at-birth",
+            "urlToImage": "https://ychef.files.bbci.co.uk/live/624x351/p0ctmkkk.jpg",
+            "publishedAt": "2022-08-19T08:37:22.2198038Z",
+            "content": "For the families, questions persist without answers, and the experiment has cast a long shadow. No living individual has ever been held accountable. One unintended legacy of the experiment is that it… [+2923 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Linda Evangelista back on Vogue cover after being 'deformed' by procedure",
+            "description": "It's a year since the model said a botched cosmetic procedure had left her \"brutally disfigured\".",
+            "url": "http://www.bbc.co.uk/news/entertainment-arts-62601679",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/174F5/production/_126377459_evangelista1.jpg",
+            "publishedAt": "2022-08-19T07:22:23.7361244Z",
+            "content": "Model Linda Evangelista has appeared on the cover of Vogue for the first time since saying she had been \"deformed\" by a botched cosmetic procedure.\r\nIn the photos, tape and elastic were used to pull … [+2244 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ukraine war: Russia rejects call to demilitarise Zaporizhzhia nuclear plant area",
+            "description": "The appeal comes amid warnings of a nuclear disaster, as each side accuses the other of shelling it.",
+            "url": "http://www.bbc.co.uk/news/world-europe-62602387",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3121/production/_126377521_mediaitem126377520.jpg",
+            "publishedAt": "2022-08-19T07:22:21.5804109Z",
+            "content": "Russia has rejected appeals for a complete demilitarisation of the area around the Zaporizhzhia nuclear plant in southern Ukraine.\r\nThe move would make the plant more vulnerable, a Russian official s… [+2833 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "'Absurd': N Korea slams South's offer of aid for denuclearisation",
+            "description": "Kim Jong-un's sister Kim Yo-jong asked South Korea's president, who made the offer, to \"shut his mouth\".",
+            "url": "http://www.bbc.co.uk/news/world-asia-62600788",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B4BB/production/_126376264_8851b38630646a32967d987144cdc64e04f46587.jpg",
+            "publishedAt": "2022-08-19T06:37:23.305035Z",
+            "content": "By Melissa ZhuBBC News\r\nKim Yo-jong, North Korean leader Kim Jong-un's powerful sister, has slammed Seoul's offer of economic aid in return for denuclearisation steps, calling it the \"height of absur… [+2890 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Europe storms: Deaths are reported in France, Austria and Italy",
+            "description": "Deaths are reported in France, Austria and Italy in violent storms after weeks of heat and drought.",
+            "url": "http://www.bbc.co.uk/news/world-europe-62598573",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11AFF/production/_126374427_mediaitem126374426.jpg",
+            "publishedAt": "2022-08-19T06:07:22.8140385Z",
+            "content": "Powerful storms have battered areas of central and southern Europe, killing at least 13 people including three children.\r\nThe deaths, most from falling trees, were reported in Italy and Austria, and … [+2598 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "James \"Whitey\" Bulger: Three men charged in mob boss murder",
+            "description": "Notorious Boston gangster James \"Whitey\" Bulger was beaten to death in prison in 2018.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-62600194",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/141A4/production/_104104328_gettyimages-644663366.jpg",
+            "publishedAt": "2022-08-19T01:07:22.2055933Z",
+            "content": "Three men have been charged over the prison killing of infamous Boston gangster James \"Whitey\" Bulger. \r\nThe 89-year-old Bulger was discovered unresponsive in October 2018 at a maximum-security facil… [+2053 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "R. Kelly trial: Witness testifies she was sexually abused by the singer",
+            "description": "An accuser at R. Kelly's trial alleged he had sex with her 'hundreds' of times before she turned 18.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-62599198",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/06DD/production/_126375710_7ba03980cfaae6db5f9378f28da8f4e7024918770_0_3500_19671000x563.jpg",
+            "publishedAt": "2022-08-19T00:52:21.2355617Z",
+            "content": "A woman at the heart of R. Kelly's second federal trial has testified that the R&amp;B singer had sex with her \"hundreds\" of times before she turned 18. \r\nThe 37-year-old woman, known as \"Jane\", said… [+2528 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "James Foley: 'My four hours with my son's killer'",
+            "description": "The mum of an American journalist beheaded by the Islamic State met her son's killer to forgive him.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-62440920",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14C16/production/_126341058_foley4_2x976-nc.png",
+            "publishedAt": "2022-08-18T23:07:20.3603578Z",
+            "content": "By Nomia IqbalBBC News, Virginia\r\nTwo men who helped murder American journalist James Foley as part of the Islamic State group's campaign of terror are facing justice in the US. One of them is being … [+9232 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Trump Organization: Allen Weisselberg pleads guilty to tax crimes",
+            "description": "Allen Weisselberg, a long-serving executive at Donald Trump's company, must pay back almost $2m.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-62578359",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6347/production/_126351452_hi078032895.jpg",
+            "publishedAt": "2022-08-18T16:07:19.2200153Z",
+            "content": "By Gareth Evansin Washington\r\nThe former chief financial officer at Donald Trump's company has pleaded guilty to fraud and tax evasion charges at a court in New York.\r\nAllen Weisselberg, who was one … [+3310 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Sanna Marin: Finland PM partying video causes backlash",
+            "description": "Sanna Marin denies taking drugs after video emerged showing her partying with friends.",
+            "url": "http://www.bbc.co.uk/news/world-europe-62588480",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13052/production/_126360977_capture.png",
+            "publishedAt": "2022-08-18T12:52:27.1430048Z",
+            "content": "By Merlyn ThomasBBC News\r\nThe Finnish prime minister, Sanna Marin, is facing a backlash after being seen partying in a leaked video. \r\nIn the footage, thought to be taken from social media, she and f… [+2225 chars]"
+        }
+    ]
+}
