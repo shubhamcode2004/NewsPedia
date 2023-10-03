@@ -31,6 +31,7 @@ export class News extends Component {
     }
     async updateNews() {
         const url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=${this.props.apiKey}&page=${this.state.page}&pageSize=${this.props.pageSize}`;
+        // const url = `https://newsdata.io/api/1/news?apikey=${this.props.apiKey}&q=${this.state.page}`;
         this.setState({ loading: true });
         let data = await fetch(url);
         let parsedData = await data.json();
@@ -48,6 +49,7 @@ export class News extends Component {
     fetchMoreData = async () => {
         this.setState({ page: this.state.page + 1 })
         const url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=${this.props.apiKey}&page=${this.state.page}&pageSize=${this.props.pageSize}`;
+        // const url = `https://newsdata.io/api/1/news?apikey=${this.props.apiKey}&q=${this.state.page}`;
         // this.setState({ loading: true });
         let data = await fetch(url);
         let parsedData = await data.json();
@@ -68,7 +70,7 @@ export class News extends Component {
                     dataLength={this.state.articles.length}
                     next={this.fetchMoreData}
                     hasMore={this.state.articles.length !== this.state.totalResults}
-                    // loader={<Spinner hidden={false}/> && <Spinner />}
+                    loader={<Spinner hidden={false}/> && <Spinner />}
                 >
                     <div className="container">
 

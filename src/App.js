@@ -11,7 +11,8 @@ import {
 
 export default class App extends Component {
   pageSize = 12;
-  ApiKey = "36eb887266ff4c878e7614c2240585f5";
+  ApiKey = "8935efae465c4f17b060ac278cdd9918";
+  // ApiKey = "pub_30469f8647a6dc9a595e0c55ab2dbd66474c4";
   Country = "in";
   render() {
     return (
@@ -20,7 +21,7 @@ export default class App extends Component {
           <Fragment>
             <Navbar />
             <Routes>
-              <Route exact path="/general" element={<News key="general" pageSize={this.pageSize} country={this.Country} category="general" apiKey={this.ApiKey} />} />
+              <Route exact path="/" element={<News key="general" pageSize={this.pageSize} country={this.Country} category="general" apiKey={this.ApiKey} />} />
               <Route exact path="/business" element={<News key="business" pageSize={this.pageSize} country={this.Country} category="business" apiKey={this.ApiKey} />} />
               <Route exact path="/entertainment" element={<News key="entertainment" pageSize={this.pageSize} country={this.Country} category="entertainment" apiKey={this.ApiKey} />} />
               <Route exact path="/health" element={<News key="health" pageSize={this.pageSize} country={this.Country} category="health" apiKey={this.ApiKey} />} />
